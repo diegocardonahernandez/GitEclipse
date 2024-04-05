@@ -10,6 +10,9 @@ public class clase2 {
 		
 		int num3class2;
 		
+
+		int num4class2;
+		
 	}
 
 }

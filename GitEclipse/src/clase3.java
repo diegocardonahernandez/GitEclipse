@@ -9,6 +9,9 @@ public class clase3 {
 		int num2class3;
 		
 		int num3class3;
+		
+
+		int num4class3;
 
 	}
 
