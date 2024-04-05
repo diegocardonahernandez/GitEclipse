@@ -6,7 +6,7 @@ public class clase1 {
 		// TODO Auto-generated method stub
 		
 		int num1class1 ;
-		
+		int num2class1;
 		
 
 	}
