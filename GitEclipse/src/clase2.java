@@ -10,6 +10,8 @@ public class clase2 {
 		
 		int num3class2;
 		
+		String modiRamanuevaclass2;
+		
 	}
 
 }
