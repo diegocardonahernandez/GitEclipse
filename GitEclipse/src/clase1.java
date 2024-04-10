@@ -11,7 +11,9 @@ public class clase1 {
 		
 		int num3class1;
 		
+
 		int num4class1;
+
 
 	}
 
